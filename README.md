@@ -16,7 +16,8 @@ I'm a music composer and aspiring software developer with background both in mus
 
 🔭 **My Goals:**
 
-* I’m looking to collaborate on innovative open-source or independent projects in the fields of either audio/music software or web development.
+* My first priority is to find a job as a web developer or IT administrator assistant.
+* I would also like to collaborate on open-source or independent projects in the fields of either audio/music software or web development.
 * I am always open to connecting with and learning from experienced developers in the music tech industry and elsewhere.
 
 ---
