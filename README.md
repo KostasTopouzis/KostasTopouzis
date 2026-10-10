@@ -2,18 +2,19 @@
 
 ### Hi there, I'm Kostas 👋
 
-I'm a music composer and aspiring software developer with background both in music and programming/development. Currently, I am transitioning into the field of professional programming/development, which I have been pursuing for years on my own, with my main focuses being web development and music/audio software production. I am always exploring ways to merge my passion for technology with my love for music.
+I'm a music composer and web developer. Currently, I am working a lot on backend/api development and database design and integration.
 
 ---
 
 🌱 **I’m currently learning and growing:**
 
-* Deepening my understanding of DSP and audio engine fundamentals by building a synthesizer from scratch in Python.
-* Expanding my skills into professional-grade tools with C++ and the JUCE framework.
-* Studying the MuseScore Notation Software's source code (hoping to contribute someday).
-* Enrolled in an AI Engineer bootcamp.
 * Going through a 2.5-year comprehensive course on modern software technologies on a Foundation/Associate Degree level.
-
+* Enrolled in an AI Engineer bootcamp.
+* Perfecting myself on full-stack web development with React/Next.js with an emphasis on backend scripting and api endpoint management.
+* Improving my agentic skills on all levels, integrating them not only to development workflows but on everyday activities.
+* Deepening my understanding of DSP and audio engine fundamentals by building a synthesizer from scratch in Python.
+* Studying the MuseScore Notation Software's source code (hoping to contribute someday).
+  
 🔭 **My Goals:**
 
 * My first priority is to find a job as a web developer or IT administrator assistant.
@@ -44,7 +45,7 @@ I use Supabase and Microsoft Azure for hosting.
 * **Music Software Expertise:**
     * **Notation:** MuseScore, Dorico, Sibelius
     * **DAWs:** Cakewalk/Sonar, Bitwig Studio
-    * **Samplers:** Kontakt
+    * **Samplers:** Kontakt, SINE Player
 
 * **Other Software:**
     * DaVinci Resolve, GIMP, OBS Studio, and many more...
@@ -54,8 +55,4 @@ I use Supabase and Microsoft Azure for hosting.
 📫 **How to reach me:**
 
 * You can reach me via the email address on my profile page or through my LinkedIn profile: [Kostas Topouzis | LinkedIn](https://www.linkedin.com/in/kostas-topouzis-03992b410/)
-* If you are interested, you can also check my music on my official artist channel. I operate under the name Vayos Avramides: [Vayos Avramides | YouTube](https://www.youtube.com/@vayosavramides)
-<!--
-* [Link to your future LinkedIn Profile]
-* [Link to your future Portfolio/Blog Website]
--->
+* If you are interested, you can also check my music on my official artist channel. I operate under the name Vayos Avramides: [Vayos Avramides | YouTube](https://www.youtube.com/@vayosavramides). Also, feel free to follow my Facebook channel: [Vayos Avramides | Facebook](https://www.facebook.com/profile.php?id=61594800706567)
